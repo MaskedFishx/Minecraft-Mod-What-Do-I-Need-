@@ -1,0 +1,25 @@
+{
+    "key.categories.wdin": "材料追踪",
+    "key.wdin.track_recipe": "追踪配方 / 切换HUD选中",
+    "key.wdin.quick_track": "追踪该物品本身/取消追踪",
+    "key.wdin.remove_selected": "移除选中的追踪配方",
+    "key.wdin.open_quantity": "调整选中配方数量",
+    "key.wdin.select_up": "选择上一个配方",
+    "key.wdin.select_down": "选择下一个配方",
+
+    "wdin.message.tracked": "已追踪配方：%s",
+    "wdin.message.quick_tracked": "开始追踪：%s",
+    "wdin.message.quick_removed": "已取消追踪：%s",
+    "wdin.message.removed_selected": "已移除选中配方：%s",
+    "wdin.message.no_target": "光标下没有物品或配方",
+    "wdin.message.no_recipes": "未追踪任何配方",
+
+    "wdin.gui.title": "调整配方数量",
+    "wdin.gui.hud_config": "HUD 配置",
+    "wdin.gui.opacity": "透明度",
+    "wdin.gui.size": "大小",
+    "wdin.gui.recipes_per_column": "单列配方数",
+    "wdin.gui.quantity": "数量",
+    "wdin.gui.remove": "移除",
+    "wdin.gui.close": "关闭"
+}

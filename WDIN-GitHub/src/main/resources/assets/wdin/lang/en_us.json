@@ -1,0 +1,25 @@
+{
+    "key.categories.wdin": "What Do I Need?",
+    "key.wdin.track_recipe": "Track Recipe / Switch HUD Selection",
+    "key.wdin.quick_track": "Track This Item / Cancel Tracking",
+    "key.wdin.remove_selected": "Remove Selected Recipe",
+    "key.wdin.open_quantity": "Adjust Quantity of Selected",
+    "key.wdin.select_up": "Select Previous Recipe",
+    "key.wdin.select_down": "Select Next Recipe",
+
+    "wdin.message.tracked": "Tracked recipe: %s",
+    "wdin.message.quick_tracked": "Now tracking: %s",
+    "wdin.message.quick_removed": "No longer tracking: %s",
+    "wdin.message.removed_selected": "Removed selected: %s",
+    "wdin.message.no_target": "No item or recipe under the cursor",
+    "wdin.message.no_recipes": "No tracked recipes",
+
+    "wdin.gui.title": "Adjust Recipe Quantity",
+    "wdin.gui.hud_config": "HUD Config",
+    "wdin.gui.opacity": "Opacity",
+    "wdin.gui.size": "Size",
+    "wdin.gui.recipes_per_column": "Recipes per Column",
+    "wdin.gui.quantity": "Quantity",
+    "wdin.gui.remove": "Remove",
+    "wdin.gui.close": "Close"
+}
